@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Brandon-Knorr
-- 👀 I’m interested in working out, cooking, reading, video games, AND Programming!
 - 🌱 I’m currently practicing Web and Software Development using HTML, CSS, Java, C#, SQL, and JavaScript.
 - 😄 Pronouns: He/Him
 <!---
