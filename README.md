@@ -34,7 +34,7 @@ Backed by an **AAS in Web & Software Development** and **dual technical diplomas
 ---
 
 ### 📊 Stats
-![Your GitHub stats](http://stats-flax-zeta.vercel.app/api?username=Brandon-Knorr&show_icons=true&theme=gotham&count_private=true)
+![Your GitHub stats](http://stats-flax-zeta.vercel.app/api?username=Brandon-Knorr&show_icons=true&theme=synthwave&count_private=true)
 <!---
 Brandon-Knorr/Brandon-Knorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
